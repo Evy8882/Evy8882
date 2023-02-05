@@ -26,7 +26,7 @@
 </div>
 
 ##
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Evy8882&bg_color=291d53&color=ffffff&line=ffffff&point=770808&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Evy8882&bg_color=14141a&color=ffffff&line=ffffff&point=a21111&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
 
