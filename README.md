@@ -6,7 +6,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Evy8882&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evy8882&layout=compact&theme=transparent)](https://github.com/Evy8882/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evy8882&layout=compact&theme=transparent"/>
 
 ## Habilidades:
 <div style="display: inline_block"><br>
@@ -24,6 +24,9 @@
   <a href="https://www.linkedin.com/in/evy882/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://codepen.io/Evy_" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
 </div>
+
+##
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Evy8882&bg_color=291d53&color=ffffff&line=ffffff&point=770808&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
 
