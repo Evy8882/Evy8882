@@ -1,6 +1,6 @@
 ## Olá, Eu sou Everton🧑‍💻👋
 
-- 🌱 Estou atualmente estudando: HTML, CSS e Javascript
+- 🌱 Estou atualmente estudando: Python e flask
 - 📫 Fale comigo pelo email: evy1339@gmail.com
 - 😄 Pronouns: Ele/Dele
 
