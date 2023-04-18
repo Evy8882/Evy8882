@@ -1,6 +1,6 @@
 # Olá, Eu sou Everton🧑‍💻👋
 
-- 🌱 Estou atualmente estudando: PHP
+- 🌱 Estou atualmente estudando: React
 - 📫 Fale comigo pelo email: evy1339@gmail.com
 - 😄 Pronouns: Ele/Dele
 
