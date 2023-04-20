@@ -11,35 +11,50 @@
 </div>
 
 ## Ferramentas de desenvolvimento
-Frontend:
+
 <div style="display: inline_block">
   
-  <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="JavaScript" height="30" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge">
   
-  <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">   
+  <img align="center" alt="Typescript" height="30" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge">   
   
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="HTML" height="30" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge">
   
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="CSS" height="30" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge">
+
+  <img align="center" alt="Python" height="30" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge">
+  
+  <img align="center" alt="PHP" height="30" src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />   
+  
+  <img  align="center" alt="MySQL" height="30" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+  
+  <img  align="center" alt="Git" height="30" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
 </div>
-<br>
-Backend:
+
+## Estudando no momento
+
 <div style="display: inline_block">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+
+  <img align="center" alt="React" height="30" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   
-  <img align="center" alt="PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />   
-</div>
-<br>
-Banco de dados:
-<div style="display: inline_block">
-  <img  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img  align="center" alt="MySQL" height="30" src="https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  
 </div>
 
 ## Redes Sociais
 
-<div>
-  <a href="https://www.instagram.com/everton_5946" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:evy1339@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/evy882/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://codepen.io/Evy_" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
+<div style="display: inline_block">
+
+  <a href="https://www.instagram.com/everton_5946" target="_blank">
+  <img  align="center" alt="Instagram" height="30" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  
+  <a href = "mailto:evy1339@gmail.com">
+  <img  align="center" alt="Email" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/evy882/" target="_blank">
+  <img  align="center" alt="Linkedin" height="30" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  
 </div>
