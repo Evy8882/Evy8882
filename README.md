@@ -14,7 +14,7 @@ Sou um estudante de programação do Brasil
 
 ## Ferramentas de desenvolvimento
 
-<div style="display: inline_block">
+<p>
   
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge">
   
@@ -31,21 +31,21 @@ Sou um estudante de programação do Brasil
   <img  align="center" alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
   
   <img  align="center" alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-</div>
+</p>
 
 #### Estudando no momento:
 
-<div style="display: inline_block">
+<p>
 
   <img align="center" alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   
   <img  align="center" alt="Node.JS" src="https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=white&style=for-the-badge" />
   
-</div>
+</p>
 
 ## Redes Sociais
 
-<div style="display: inline_block">
+<p>
 
   <a href="https://www.instagram.com/everton_5946" target="_blank">
   <img  align="center" alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
@@ -59,4 +59,4 @@ Sou um estudante de programação do Brasil
   <img  align="center" alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   
-</div>
+</p>
