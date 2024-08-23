@@ -1,62 +1,45 @@
-# Olá, Eu sou Everton🧑‍💻👋
+<h1 align="center">Hi 👋, I'm Everton</h1>
+<h3 align="center">A system development student from Brazil <img src="https://user-images.githubusercontent.com/124212111/233400915-1418f7e6-1d7b-402b-b19e-6dcb239b2478.png" height="22" align="center"></h3>
 
-Bem vindo a minha página! </br>
-Sou um estudante de programação do Brasil
-<img src="https://user-images.githubusercontent.com/124212111/233400915-1418f7e6-1d7b-402b-b19e-6dcb239b2478.png" height="24" align="center">
+- 📖 I’m Studying System Development
 
+- 🔭 I’m currently working on [CollabTask](https://github.com/Evy8882/CollabTask)
 
+- 🌱 I’m currently learning **Node JS**
 
-## Atividade
-<div align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Evy8882&show_icons=true&theme=transparent">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evy8882&layout=compact&theme=transparent"/>
-</div>
+- 📫 How to reach me **evy1339@gmail.com**
 
-## Ferramentas de desenvolvimento
+- 🎮 My games **https://evy8882.itch.io**
 
-<p>
-  
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge">
-  
-  <img align="center" alt="Typescript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge">   
-  
-  <img align="center" alt="HTML" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge">
-  
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge">
-
-  <img align="center" alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge">
-  
-  <img align="center" alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />   
-  
-  <img  align="center" alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
-  
-  <img  align="center" alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-#### Estudando no momento:
-
-<p>
-
-  <img align="center" alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+<h3 align="left">Skills:</h3>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   
-  <img  align="center" alt="Node.JS" src="https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+  
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 </p>
-
-## Redes Sociais
-
-<p>
-
-  <a href="https://www.instagram.com/everton_5946" target="_blank">
-  <img  align="center" alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  
-  <a href = "mailto:evy1339@gmail.com">
-  <img  align="center" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  
-  <a href="https://www.linkedin.com/in/evy882/" target="_blank">
-  <img  align="center" alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  
+<h3 align="left">Stats:</h3>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Evy8882&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evy8882&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150"/>
 </p>
