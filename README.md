@@ -68,6 +68,12 @@
   
 </p>
 
+<h3 align="left">Gamedev:</h3>
+<p align="left">
+  <img height="30px" src="https://img.shields.io/badge/GameMaker-000?style=for-the-badge&logo=gamemaker&logoColor=fff"/>
+  <img height="30px" src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine"/>
+</p>
+
 <h2 align="left">Stats:</h2>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Evy8882&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150" />
