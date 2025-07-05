@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Everton</h1>
-<h3 align="center">A system development student from Brazil <img src="https://user-images.githubusercontent.com/124212111/233400915-1418f7e6-1d7b-402b-b19e-6dcb239b2478.png" height="22" align="center"></h3>
+<h3 align="center">A system development student from 💚Brazil💛</h3>
 
 - 📖 I’m Studying System Development
 
