@@ -3,7 +3,7 @@
 
 - 📖 I’m Studying System Development
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **evy1339@gmail.com**
 
