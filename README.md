@@ -76,6 +76,6 @@
 
 <h2 align="left">Stats:</h2>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Evy8882&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evy8882&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="150"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Evy8882&show_icons=true&theme=tokyonight" height="150" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Evy8882&layout=compact&theme=tokyonight" height="150"/>
 </p>
