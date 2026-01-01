@@ -3,7 +3,7 @@
 
 - 📖 I’m Studying System Development
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust🦀**
 
 - 📫 How to reach me **evy1339@gmail.com**
 
@@ -16,7 +16,7 @@
 
   <img height="30px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-  <img height="30px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img height="30px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white"/>
   
   <img height="30px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
@@ -27,6 +27,8 @@
   <img height="30px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 
   <img height="30px" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+
+  <img height="30px" src="https://shields.io/badge/-Rust-3776AB?style=for-the-badge&logo=rust&logoColor=white" />
   
 </p>
 
@@ -76,6 +78,6 @@
 
 <h2 align="left">Stats:</h2>
 <p align="left">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Evy8882&show_icons=true&theme=tokyonight" height="150" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Evy8882&layout=compact&theme=tokyonight" height="150"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Evy8882&show_icons=true&theme=tokyonight&hide_rank=true" height="180" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Evy8882&layout=compact&theme=tokyonight&langs_count=10" height="180"/>
 </p>
